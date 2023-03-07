@@ -52,3 +52,10 @@ h1{
     45% {top: 565px; left: 1500px}
     50% {top: 565px; left: 1700px}
 }
+
+audio{
+    width: 30px;
+    box-shadow: 5px 5px 20px rgb(100, 100, 231);
+    border-radius: 30px;
+    transform: scale(1.05);
+}
